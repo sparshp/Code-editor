@@ -1,3 +1,39 @@
+[Go Live] (https://real-timecode-editor.herokuapp.com/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+![screenshot-real-timecode-editor herokuapp com-2022 08 02-16_11_15](https://user-images.githubusercontent.com/71871246/182358917-cbf339ea-4332-41d6-84aa-73d287505fda.png)
+
+
+
+
+![screenshot-real-timecode-editor herokuapp com-2022 08 02-16_25_36](https://user-images.githubusercontent.com/71871246/182358928-52bdbd5d-1f7a-4194-843e-9e5b001cf1ab.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
